@@ -1,6 +1,6 @@
 # Import python packages
-import requests
 import streamlit as st
+import requests
 from snowflake.snowpark.functions import col
 
  
